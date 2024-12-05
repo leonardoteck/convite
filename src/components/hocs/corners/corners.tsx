@@ -1,5 +1,5 @@
 import React from 'react';
-import { Corner } from '../../atoms/corner/corner';
+import { Corner } from '../../components/corner/corner';
 
 export const Corners = () => (
   <>

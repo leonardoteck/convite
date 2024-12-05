@@ -1,7 +1,7 @@
 import React from 'react';
 import './flowers.css';
 import { useWindowDimensions } from '../../../utils/useWindowDimensions';
-import { Flower } from '../../atoms/flower/flower';
+import { Flower } from '../../components/flower/flower';
 
 export const Flowers = () => {
   const { height, width } = useWindowDimensions();

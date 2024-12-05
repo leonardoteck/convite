@@ -1,0 +1,49 @@
+#logo-space {
+  width: calc(35vh);
+  height: calc(35vh);
+  margin: 0 auto;
+}
+
+#logo {
+  position: relative;
+  height: 100%;
+}
+
+#glitter1 {
+  position: absolute;
+  left: 8%;
+  width: 95%;
+  top: calc(-1.5vh);
+}
+
+#glitter2 {
+  position: absolute;
+  left: 8%;
+  width: 95%;
+  top: calc(0.5vh);
+}
+
+#flowerCrown {
+  position: absolute;
+  width: 100%;
+  rotate: 90deg;
+}
+
+#goldenRings {
+  position: absolute;
+  width: 100%;
+  left: 5%;
+  top: calc(-2vh);
+}
+
+#circle {
+  height: 80%;
+  width: 80%;
+  border-radius: 50%;
+  left: 15%;
+  position: absolute;
+  top: 5%;
+  box-shadow: 0 0 calc(10vh) #dfc4a4;
+}
+
+/* text-shadow rgba(115, 115, 115, 0.48) 11.3949px 7.12031px 0px */

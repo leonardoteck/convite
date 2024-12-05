@@ -1,5 +1,6 @@
 #cornerImg {
   max-height: 40%;
   max-width: 40%;
-  position: absolute;
+  position: fixed;
+  z-index: -1;
 }
