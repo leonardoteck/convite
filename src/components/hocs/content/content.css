@@ -1,5 +1,17 @@
+#mask {
+  mask-image: linear-gradient(180deg, black 0%, black 80%, transparent 100%);
+  width: calc(100vw);
+  height: calc(100vh);
+  overflow-y: scroll;
+  overflow-x: hidden;
+  scrollbar-width: none;
+  padding-bottom: calc(20vh);
+}
+
 #content {
-  width: 60%;
+  width: 100%;
+  padding-left: 20%;
+  padding-right: 20%;
   margin: 0 auto;
   padding-top: 20px;
 }

@@ -11,7 +11,9 @@ export const Logo = () => (
       <img src={glitterImg} alt='' id='glitter1' />
       <img src={glitterImg} alt='' id='glitter2' />
       <img src={goldenRings} alt='' id='goldenRings' />
-      <img src={flowerCrown} alt='' id='flowerCrown' />
+      {/* <span>K</span>
+      <span>L</span> */}
+      <img src={flowerCrown} alt='' id='flowerCrown' /> 
     </div>
   </div>
 )
