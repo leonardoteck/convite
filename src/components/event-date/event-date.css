@@ -1,0 +1,12 @@
+#eventDate {
+  font-family: 'Great Vibes';
+  color: #f3edbd;
+  text-align: center;
+  font-size: calc(7vh);
+  margin-bottom: 0;
+}
+
+#eventDateDivider {
+  width: 70%;
+  margin-left: 15%;
+}

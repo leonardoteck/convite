@@ -1,0 +1,12 @@
+#namesFlexBox {
+  font-family: 'Great Vibes';
+  display: flex;
+  color: white;
+  text-shadow: rgba(0, 0, 0, 0.325) 0px 3px 14px;
+  font-size: calc(10vh);
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+  line-height: calc(10vh);
+  margin-top: 5%;
+}

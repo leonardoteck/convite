@@ -17,3 +17,8 @@ body {
   box-sizing: border-box;
   margin: 0 auto;
 }
+
+@font-face {
+  font-family: Riwaya;
+  src: url(./resources/riwaya.woff2);
+}

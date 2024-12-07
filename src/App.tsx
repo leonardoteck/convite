@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import { Background } from './components/hocs/background/background';
-import { Content } from './components/hocs/content/content';
+import { Background } from './hocs/background/background';
+import { Content } from './hocs/content/content';
 
 function App() {
   return (

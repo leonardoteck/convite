@@ -1,6 +1,6 @@
 import React from 'react';
 import './background-image.css';
-import { useWindowDimensions } from '../../../utils/useWindowDimensions';
+import { useWindowDimensions } from '../../utils/useWindowDimensions';
 
 export const BackgroundImage = () => {
   const { height, width } = useWindowDimensions();

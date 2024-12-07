@@ -9,17 +9,17 @@
   height: 100%;
 }
 
-#glitter1 {
+.glitter {
   position: absolute;
   left: 8%;
   width: 95%;
+}
+
+#glitter1 {
   top: calc(-1.5vh);
 }
 
 #glitter2 {
-  position: absolute;
-  left: 8%;
-  width: 95%;
   top: calc(0.5vh);
 }
 
@@ -46,4 +46,22 @@
   box-shadow: 0 0 calc(10vh) #dfc4a4;
 }
 
-/* text-shadow rgba(115, 115, 115, 0.48) 11.3949px 7.12031px 0px */
+.logoChar {
+  position: absolute;
+  display: block;
+  font-family: 'Great Vibes';
+  font-size: calc(10vh);
+  color: #ebe4b3;
+  text-shadow: rgba(115, 115, 115, 0.48) calc(0.5vh) calc(0.5vh) calc(0.3vh)
+}
+
+#K {
+  top: 18%;
+  left: 23%
+}
+
+#L {
+  top: 37%;
+  left: 50%;
+  font-size: calc(11vh);
+}

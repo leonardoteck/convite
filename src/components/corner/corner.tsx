@@ -1,5 +1,5 @@
 import React from 'react';
-import cornerImg from '../../../resources/corner.png'
+import cornerImg from '../../resources/corner.svg'
 import './corner.css'
 
 type Props = {
