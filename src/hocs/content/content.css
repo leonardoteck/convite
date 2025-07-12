@@ -1,5 +1,5 @@
 #mask {
-  mask-image: linear-gradient(180deg, black 0%, black 80%, transparent 100%);
+  /* mask-image: linear-gradient(180deg, black 0%, black 80%, transparent 100%); */
   width: calc(100vw);
   height: calc(100vh);
   overflow: hidden;
@@ -18,10 +18,16 @@
   overflow-y: scroll;
   scrollbar-width: none;
   padding-bottom: calc(20vh);
+  background-color: rgba(0, 0, 0, 0);
+  transition: background-color 0.5s ease;
 }
 
 #content>div {
   scroll-snap-align: center;
   flex: none;
   scroll-snap-stop: always;
+}
+
+.dark {
+  background-color: rgba(0, 0, 0, 0.6) !important;
 }
