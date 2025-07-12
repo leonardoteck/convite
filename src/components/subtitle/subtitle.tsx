@@ -2,5 +2,5 @@ import React from 'react';
 import './subtitle.css'
 
 export const Subtitle = () => (
-  <p id='subtitle'>Convidamos vocês para essa grande união</p>
+  <p id='subtitle'>Vamos nos casar e queremos compartilhar esse momento único com quem amamos: vocês.</p>
 )

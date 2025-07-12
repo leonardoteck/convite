@@ -16,7 +16,7 @@ export const Names = ({ width }: Props) => {
         <span style={{ flex: 2, fontFamily: 'Cormorant Garamond' }}>&</span>
         <span style={{ flex: 8, textAlign: vertical ? 'center' : 'left' }}>Kimberly</span>
       </div>
-      <img src={DividerSvg} alt='' width='80%' style={{ marginLeft: '10%' }} />
+      <img src={DividerSvg} alt='' width='70%' style={{ marginLeft: '15%', marginTop: '5vh' }} />
     </div>
   );
 }
