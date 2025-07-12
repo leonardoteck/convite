@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/convite/static/css/main.241d56a9.css",
-    "main.js": "/convite/static/js/main.9996d4a1.js",
+    "main.css": "/convite/static/css/main.ecdcafb8.css",
+    "main.js": "/convite/static/js/main.5a39c2f8.js",
     "static/js/453.4a8e42e5.chunk.js": "/convite/static/js/453.4a8e42e5.chunk.js",
     "static/media/glitter.gif": "/convite/static/media/glitter.619e3bb0b331d1a9e8ef.gif",
     "static/media/bg.jpg": "/convite/static/media/bg.a8ea7e707d683b7a4d2f.jpg",
@@ -13,12 +13,12 @@
     "static/media/divider2.svg": "/convite/static/media/divider2.5e8c55752e600a94538459296656e5b1.svg",
     "static/media/goldenRings.svg": "/convite/static/media/goldenRings.436a37eb8f4e27264fb4f553feeb8100.svg",
     "index.html": "/convite/index.html",
-    "main.241d56a9.css.map": "/convite/static/css/main.241d56a9.css.map",
-    "main.9996d4a1.js.map": "/convite/static/js/main.9996d4a1.js.map",
+    "main.ecdcafb8.css.map": "/convite/static/css/main.ecdcafb8.css.map",
+    "main.5a39c2f8.js.map": "/convite/static/js/main.5a39c2f8.js.map",
     "453.4a8e42e5.chunk.js.map": "/convite/static/js/453.4a8e42e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.241d56a9.css",
-    "static/js/main.9996d4a1.js"
+    "static/css/main.ecdcafb8.css",
+    "static/js/main.5a39c2f8.js"
   ]
 }
