@@ -16,10 +16,8 @@ export const Address = () => {
         </div>
       </div>
       <div className="AddressTexts" id="ParkingText"> 
-        <a href="https://maps.app.goo.gl/pqYCBxZeHWkYbVV98">
-          Estacionamento<br/>
-          na mesma rua, nº 3356
-        </a>
+        Estacionamento<br/>
+        na mesma rua
       </div>
     </div>
   )

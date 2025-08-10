@@ -13,6 +13,6 @@ export function useDarken() {
     }
     
     contentDiv.addEventListener('scrollend', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scrollend', handleScroll);
   });
 }
