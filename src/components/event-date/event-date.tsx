@@ -12,8 +12,8 @@ export const EventDate = () => (
       Início da cerimônia às 15:00
     </p>
     <p id="eventMessage">
-      Pedimos que cheguem com devida antecedência<br />
-      para que possamos começar pontualmente!
+      Chegue cedo e <br />
+      aproveite cada momento!
     </p>
   </div>
 );
