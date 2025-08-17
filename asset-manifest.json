@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/convite/static/css/main.cac4f4b4.css",
-    "main.js": "/convite/static/js/main.22f435b1.js",
+    "main.css": "/convite/static/css/main.b66ae582.css",
+    "main.js": "/convite/static/js/main.be4dab87.js",
     "static/js/453.4a8e42e5.chunk.js": "/convite/static/js/453.4a8e42e5.chunk.js",
-    "static/media/bg.jpg": "/convite/static/media/bg.a8ea7e707d683b7a4d2f.jpg",
-    "static/media/flower-crown.png": "/convite/static/media/flower-crown.352f60d37b7cd4efb317.png",
-    "static/media/flower.png": "/convite/static/media/flower.cfbaea9c6a16b377f3f6.png",
-    "static/media/glitter.gif": "/convite/static/media/glitter.76148ff60ffd71112341.gif",
+    "static/media/glitter.gif": "/convite/static/media/glitter.30e7fed18132353e60d1.gif",
+    "static/media/bg.jpg": "/convite/static/media/bg.bf3dfd45f988445ad000.jpg",
+    "static/media/flower-crown.png": "/convite/static/media/flower-crown.33c1a1aed4c857d81acf.png",
+    "static/media/flower.png": "/convite/static/media/flower.5857ca13519b0680ec2e.png",
     "static/media/riwaya.woff2": "/convite/static/media/riwaya.7732986b06ddd4eb9b82.woff2",
-    "static/media/corner.svg": "/convite/static/media/corner.ae6938ea77fa4370b264a8066c194e31.svg",
-    "static/media/divider.svg": "/convite/static/media/divider.760c92de516ef8fa66424033c0871450.svg",
-    "static/media/divider2.svg": "/convite/static/media/divider2.5e8c55752e600a94538459296656e5b1.svg",
-    "static/media/goldenRings.svg": "/convite/static/media/goldenRings.436a37eb8f4e27264fb4f553feeb8100.svg",
+    "static/media/corner.svg": "/convite/static/media/corner.0c0744915fef11da90599a49af64099d.svg",
+    "static/media/divider.svg": "/convite/static/media/divider.a37fd8b8dfc1766fbf8ca0dd0edf2173.svg",
+    "static/media/goldenRings.svg": "/convite/static/media/goldenRings.c6286ffa5ccca7009e89f60f0a126e10.svg",
+    "static/media/divider2.svg": "/convite/static/media/divider2.bd0c93d2c5d5e24d4c9dc475e3c57340.svg",
     "index.html": "/convite/index.html",
-    "main.cac4f4b4.css.map": "/convite/static/css/main.cac4f4b4.css.map",
-    "main.22f435b1.js.map": "/convite/static/js/main.22f435b1.js.map",
+    "main.b66ae582.css.map": "/convite/static/css/main.b66ae582.css.map",
+    "main.be4dab87.js.map": "/convite/static/js/main.be4dab87.js.map",
     "453.4a8e42e5.chunk.js.map": "/convite/static/js/453.4a8e42e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cac4f4b4.css",
-    "static/js/main.22f435b1.js"
+    "static/css/main.b66ae582.css",
+    "static/js/main.be4dab87.js"
   ]
 }
